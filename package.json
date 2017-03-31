@@ -1,11 +1,13 @@
 {
   "name": "vue-browserify-es6",
   "version": "1.0.0",
-  "engines" : { "node" : "~6.0.0" },
+  "engines": {
+    "node": "~6.0.0"
+  },
   "description": "Simplified version of a vue browserfiy setup",
   "main": "main.js",
   "dependencies": {
-    "grunt": "^1.0.1",
+    "grunt": "^0.4.5",
     "grunt-browserify": "^5.0.0",
     "grunt-contrib-connect": "^0.9.0",
     "grunt-contrib-pug": "^1.0.0",
